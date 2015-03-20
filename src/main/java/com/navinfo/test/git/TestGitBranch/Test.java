@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("test tag!!");
 		System.out.println("v0.01");
 		System.out.println("v0.02");
+		System.out.println("v0.0.2.1");
 	}
 }
