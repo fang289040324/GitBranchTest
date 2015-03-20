@@ -9,5 +9,6 @@ public class Test {
 		System.out.println("v0.01");
 		System.out.println("v0.02");
 		System.out.println("v0.0.2.1");
+		System.out.println("v0.0.2.2");
 	}
 }
