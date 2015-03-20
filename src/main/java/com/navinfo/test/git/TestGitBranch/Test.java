@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("hello master Git001");
 		System.out.println("hello fangshaowei02Dev");
 		System.out.println("test tag!!");
+		System.out.println("v0.01");
 	}
 }
